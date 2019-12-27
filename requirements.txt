@@ -1,0 +1,11 @@
+appdirs==1.4.3
+idna==2.8
+joblib==0.14.1
+nltk==3.4.5
+numpy==1.18.0
+scikit-learn==0.22
+scipy==1.4.1
+six==1.13.0
+sklearn==0.0
+uritools==3.0.0
+urlextract==0.13.0
