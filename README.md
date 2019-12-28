@@ -31,8 +31,8 @@ Build model
 pipenv run python build_model.py
 ```
 Run predict
-    Step1: Store data test to app/source_data/test
-    Step2:
+Step1: Store data test to app/source_data/test    
+Step2:
 ```
 pipenv run python main.py
 ```
